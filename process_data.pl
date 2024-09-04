@@ -1,4 +1,4 @@
-#!/usr/bin/env perl
+#!/usr/bin/perl
 use strict;
 use warnings;
 
@@ -33,5 +33,5 @@ close $fh;
 
 print "\nSummary Report:\n";
 print "Total number of accounts: $num_accounts\n";
-print "Total balance across all"
-
+print "Total balance across all accounts: $total_balance USD\n";
+print "Number of accounts with a negative balance: $negative_accounts\n";

@@ -1,5 +1,0 @@
-Account: 123456, Balance: 12000.75, Currency: USD
-Account: 234567, Balance: 5000.00, Currency: USD
-Account: 345678, Balance: 15000.50, Currency: USD
-Account: 456789, Balance: -250.00, Currency: USD
-Account: 567890, Balance: 3000.00, Currency: USD
